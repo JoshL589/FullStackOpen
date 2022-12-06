@@ -33,13 +33,13 @@
     {
       "content": "friend testing",
       "date": "2022-12-02T03:47:06.237Z",
-      "important": true,
+      "important": false,
       "id": 6
     },
     {
       "content": "123",
       "date": "2022-12-02T03:47:07.689Z",
-      "important": true,
+      "important": false,
       "id": 7
     },
     {
@@ -51,7 +51,7 @@
     {
       "content": "23",
       "date": "2022-12-02T03:47:08.499Z",
-      "important": false,
+      "important": true,
       "id": 9
     },
     {
@@ -141,8 +141,14 @@
     {
       "content": "sad",
       "date": "2022-12-02T04:05:33.731Z",
-      "important": false,
+      "important": true,
       "id": 24
+    },
+    {
+      "content": "as",
+      "date": "2022-12-06T07:55:04.187Z",
+      "important": true,
+      "id": 26
     }
   ]
 }
