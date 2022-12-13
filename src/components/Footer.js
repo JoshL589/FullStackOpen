@@ -9,7 +9,8 @@ const Footer = () => {
     <div style={footerStyle}>
       <br />
       <em>
-        Note app, Department of Computer Science, University of Helsinki 2022
+        Note app, Department of Computer Science, University of Helsinki 2022,
+        built by Joshua Li
       </em>
     </div>
   );
